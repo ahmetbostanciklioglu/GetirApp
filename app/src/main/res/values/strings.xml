@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GetirApp</string>
+
+    <string name="getir_bi">Getir Bi’&#32;</string>
+    <string name="mutluluk">Mutluluk!</string>
+    <string name="istedigin_urunu_hemen_sec">İstediğin ürünü seç, hemen getirelim!</string>
+    <string name="getir_search_placeholder_text">GetirYemek, GetirMarket, Getir ve daha fazlasını ara...</string>
+    <string name="indirim_text">Getir içecekler indirimde!</string>
+    <string name="indirim_text_detail">Kuponlar ile artık indirimden\nyararlanabilirsiniz. Detaylı bilgi</string>
+
+    <!-- price list-->
+    <string name="juis_price">12,64TL</string>
+    <string name="coca_cola_price">5,29TL</string>
+    <string name="fruit_extra_price">7,00TL</string>
+    <string name="link_price">2,50TL</string>
+    <string name="beypazari_price">15,04TL</string>
+    <string name="sprite_price">20,08TL</string>
+    <string name="redbull_price">17,50TL</string>
+    <string name="monster_price">25,00TL</string>
+
+
+</resources>
